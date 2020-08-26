@@ -1,6 +1,5 @@
-<p align="center"> <img src="https://github.com/andreazomoza/andreazomoza/blob/master/1.gif" width="300"/></p> 
-<h2 align="center">Hi there 👋</h2><p>
-<h2 align="center"> 🌱 I’m currently learning ...</h2><p>
+<h2 align="center">Hola Soy Andrea 👋</h2><p>
+<h2 align="center"> 🌱 Actualmente estoy aprendiendo ...</h2><p>
 <p align="center"> <img src="https://github.com/andreazomoza/andreazomoza/blob/master/2js.png" width="100"/><img src="https://github.com/andreazomoza/andreazomoza/blob/master/3react.png" width="100"/><img src="https://github.com/andreazomoza/andreazomoza/blob/master/4redux.jpg" width="100"/> <img src="https://github.com/andreazomoza/andreazomoza/blob/master/5psql.png" width="100"/><img src="https://github.com/andreazomoza/andreazomoza/blob/master/6exp.png" width="100"/></p> 
 
 
